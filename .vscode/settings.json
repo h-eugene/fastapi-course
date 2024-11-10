@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "nginx": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp"
+    }
+}
